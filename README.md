@@ -1,4 +1,9 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/ggjnez92?logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/wil92?logo=github&style=for-the-badge)
+
 ### Hi there 👋
+
+If you would like to see my CV, go and take a look to my personal page [guilledev.com](https://guilledev.com)
 
 <!--
 **wil92/wil92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
